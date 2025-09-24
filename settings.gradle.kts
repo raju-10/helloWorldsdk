@@ -21,5 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "HelloWorldSdk"
 include(":app")
-include(":helloWorldSdk")
-include(":helloworldsdk")
+include(":hello-world")
